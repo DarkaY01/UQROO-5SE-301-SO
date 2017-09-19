@@ -1,1 +1,0 @@
-Su practica debe tener como nombre los ultimos 4 digitos de su matricula.
